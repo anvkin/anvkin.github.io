@@ -1,0 +1,65 @@
+h1 {
+    background-color: dimgray;
+    color: whitesmoke;
+    padding: 20px;
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 25px;
+}
+
+a {
+    border-radius: 10px;
+    background-color: indianred;
+    border-style: solid;
+    border-color: lightgray;
+    color: whitesmoke;
+    padding: 10px;
+    border-width: 2px;
+}
+
+body {
+    background-color: grey;
+}
+
+img {
+    border: 3px solid lightgray;
+    width: 450px;
+    height: 290px;
+    margin-top: 25px;
+    border-radius: 10px;
+    margin-left: 7px;
+    
+}
+p {
+    background-color: darksalmon;
+    color: whitesmoke;
+    border-radius: 5px;
+    padding: 5px;
+    border: 2px solid lightgray;
+    margin-top: 25px
+}
+
+audio {
+    background-color: cadetblue;
+    padding: 3px;
+    border: 2px dotted lightgray;
+    border-radius: 30px;
+}
+
+h2 {
+    color: whitesmoke;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 50;
+    font-family: cursive;
+    
+    
+}
+
+video {
+    border: 3px solid lightgray;
+    width: 450px;
+    height: 290px;
+    margin-top: 25px;
+    border-radius: 5px;
+}
